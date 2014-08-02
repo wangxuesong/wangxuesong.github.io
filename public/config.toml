@@ -1,0 +1,11 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://wangxuesong.github.io"
+canonifyurls = true
+[indexes]
+   category = "categories"
+   tag = "tags"
+languageCode = "zh-cn"
+title = "my new hugo site"
